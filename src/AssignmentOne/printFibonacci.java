@@ -1,4 +1,4 @@
-package Assignment;
+package AssignmentOne;
 
 public class printFibonacci {
     public static void main(String[] args) {
