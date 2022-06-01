@@ -15,8 +15,7 @@ public class Strings {
 
         System.out.println("===========");
         String str1 = "My cat is meowing.";
-        String getSubString = str1.substring(3, 6);
-        System.out.println("substring is " + getSubString);
+        System.out.println("substring is " + str1.substring(3, 6));
 
         System.out.println("===========");
         System.out.println("Capitalized str1 is " + str1.toUpperCase());
