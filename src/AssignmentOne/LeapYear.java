@@ -3,6 +3,7 @@ package AssignmentOne;
 import java.util.Scanner;
 
 public class LeapYear {
+    //year is a leap year or not
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter your number of year here: ");

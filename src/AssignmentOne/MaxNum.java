@@ -3,6 +3,7 @@ package AssignmentOne;
 import java.util.Scanner;
 
 public class MaxNum {
+    //find greatest of 3 numbers
     public static void main(String[] args) {
         int num1, num2, num3, temp, max;
         Scanner scanner = new Scanner(System.in);

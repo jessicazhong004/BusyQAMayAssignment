@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class DayInMonth {
     public static void main(String[] args) {
+        //number of days in a month using switch case statement
         Scanner scanner = new Scanner(System.in);
         int month = 0;
         int days;

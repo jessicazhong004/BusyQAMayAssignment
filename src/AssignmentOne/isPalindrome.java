@@ -3,6 +3,7 @@ package AssignmentOne;
 import java.util.Scanner;
 
 public class isPalindrome {
+    //Palindrome
     public static void main(String[] args) {
         int num = 0;
         Scanner scanner = new Scanner(System.in);

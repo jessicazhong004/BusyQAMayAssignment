@@ -3,6 +3,7 @@ package AssignmentOne;
 import java.util.Scanner;
 
 public class NumDigits {
+    //count the number of digits of the number
     public static void main(String[] args) {
         int num, count = 0;
         Scanner scanner = new Scanner(System.in);

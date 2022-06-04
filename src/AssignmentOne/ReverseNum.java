@@ -3,6 +3,7 @@ package AssignmentOne;
 import java.util.Scanner;
 
 public class ReverseNum {
+    //reverse a number
     public static void main(String[] args) {
         int num, reverse = 0;
         Scanner scanner = new Scanner(System.in);

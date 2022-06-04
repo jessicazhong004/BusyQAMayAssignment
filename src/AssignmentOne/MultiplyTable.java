@@ -3,6 +3,7 @@ package AssignmentOne;
 import java.util.Scanner;
 
 public class MultiplyTable {
+    //multiplication table of a given integer
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Please enter your number here: ");
