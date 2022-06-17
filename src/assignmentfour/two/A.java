@@ -1,4 +1,4 @@
-package com.bli.jessica_assignment.assignment2;
+package assignmentfou.two;
 
 public interface A {
 
